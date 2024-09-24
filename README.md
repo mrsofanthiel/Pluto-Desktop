@@ -13,11 +13,11 @@
     <a href="https://discord.gg/wvd8ChpD8t"><img src="assets/images/zeoncommunitybanner.png" height="50"></a>
       <a href="https://zeon.dev"><img src="assets/images/zeonbanner.png" height="50"></a><br/><br/>
 
-<a href="https://pluto-app.zeon.dev/">Try the live demo &nearr;</a>
+<a href="https://pluto-app.zeon.dev/">Try the origional live demo by ZeonDevv &nearr;</a>
 
 </div>
 
-<p align="center">Pluto is a minimal but functional "web OS" that aims to provide a desktop environment-like experience inside of a website.</p>
+<p align="center">Pluto is a minimal but functional "web OS" that aims to provide a desktop environment-like experience inside of a website.<br>I wanted to modify some assets, and now this fork exists. :/</p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/images/ss_light.png">
@@ -41,11 +41,8 @@ Pluto has several key features some of which include:
 
 ## Documentation
 
-You can find documentation in the [docs](docs/) folder.
+You can find documentation in the [docs](docs/) folder or something.
 
 ## Contributing
 
-When contributing to Pluto, please consider the following:
-
-- It is recommended to use [VS Code](https://code.visualstudio.com) along with the Live Server and Prettier extensions for the best experience.
-- Following these guidelines increases the chance of your pull request being approved.
+When contributing to Pluto, please contribute to the main project, not my fork. They will appreciate your work more than I will.
