@@ -3,11 +3,7 @@
 ![Pluto banner](assets/images/banner.svg)
 
 <div align="center">
-  <a href="https://github.com/mrsofanthiel/mrsofanthiel.github.io/stargazers"><img src="https://img.shields.io/github/stars/zeondev/pluto?style=for-the-badge" /></a>
-  <a href="https://github.com/mrsofanthiel/mrsofanthiel.github.io/forks"><img src="https://img.shields.io/github/forks/zeondev/pluto?style=for-the-badge&color=orange" /></a>
-  <a href="https://github.com/mrsofanthiel/mrsofanthiel.github.io/commits"><img src="https://img.shields.io/github/commit-activity/t/zeondev/pluto?style=for-the-badge&color=violet" /></a>
-<br>
-<br>
+
 <a href="https://pluto-app.zeon.dev/">Try the origional live demo by ZeonDevv &nearr;</a>
 
 </div>
